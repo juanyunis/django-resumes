@@ -1,7 +1,7 @@
 Django Resumes by Juan C. Yunis
 =================================
 
-Django Resume provides a easy way to create and generate Resumes/CV.
+Django Resume provides a easy way to create and generate Resumes/CV. Also supports django ``"Internationalization"``.
 
 Installation
 ************
